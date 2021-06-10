@@ -1,0 +1,29 @@
+body {
+    background: #D32F2F;
+    text-align: center;
+}
+
+img {
+    width: 420px;
+}
+
+.menu {
+    top: 20px;
+    position: absolute;
+    list-style: none;
+    cursor: pointer;
+}
+
+.menuoption {
+    float: left;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    font-size: 15xpx;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.menuoption:hover {
+    background-color: blue
+}
