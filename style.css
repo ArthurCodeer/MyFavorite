@@ -25,5 +25,14 @@ img {
 }
 
 .menuoption:hover {
-    background-color: blue
+    background-color: darkseagreen
+}
+.line{
+    background-color: black;
+        height: 8px;
+            width: 100px;
+    margin: 5px auto;
+}
+html{
+    scroll-behavior: smooth;
 }
