@@ -1,5 +1,4 @@
 body {
-    background: #D32F2F;
     text-align: center;
 }
 
@@ -9,6 +8,7 @@ img {
 
 .menu {
     top: 20px;
+    left: 5px;
     position: absolute;
     list-style: none;
     cursor: pointer;
@@ -20,7 +20,7 @@ img {
     padding-left: 10px;
     padding-top: 5px;
     padding-right: 10px;
-    font-size: 15xpx;
+    font-size: 10xpx;
     font-family: 'Fira Sans', sans-serif;
 }
 
@@ -35,4 +35,19 @@ img {
 }
 html{
     scroll-behavior: smooth;
+}
+#home{
+    background-color: aqua;
+}
+#games{
+   background-color: indianred;
+}
+#projects{
+   background-color: lightgreen;
+}
+#saftey{
+    background-color: yellow;
+}
+#inspiration{
+   background-color: orange;
 }
